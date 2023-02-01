@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SQL Statement Generator GUI Application"
   ],
-  "SelectedNode": "\\C:\\Users\\Naveed\\Source\\Repos\\SQL-Statement-Generator-Utility",
+  "SelectedNode": "\\SQL Statement Generator GUI Application\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

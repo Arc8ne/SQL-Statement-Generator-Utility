@@ -8,12 +8,12 @@ C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Gener
 SQL_Statement_Generator_GUI_Application
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\App.xaml
 11407045341
 
-3-1233169557
-194618410957
+5-941730420
+3881236821914
 MainWindow.xaml;
 
 True
