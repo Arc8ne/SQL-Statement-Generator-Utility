@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\App.xaml
-11407045341
+21879621753
 
-5-71639882
+71834130021
 194618410957
-MainWindow.xaml;
+CreateAccountWindowDir\CreateAccountWindow.xaml;MainWindow.xaml;
 
-False
+True
 

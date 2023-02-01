@@ -19,3 +19,6 @@ C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Gener
 C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\obj\Debug\net6.0-windows\SQL Statement Generator GUI Application.pdb
 C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\obj\Debug\net6.0-windows\SQL Statement Generator GUI Application.genruntimeconfig.cache
 C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\obj\Debug\net6.0-windows\ref\SQL Statement Generator GUI Application.dll
+C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\obj\Debug\net6.0-windows\App.baml
+C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\obj\Debug\net6.0-windows\CreateAccountWindowDir\CreateAccountWindow.g.cs
+C:\Users\Naveed\Source\Repos\SQL-Statement-Generator-Utility\SQL Statement Generator GUI Application\obj\Debug\net6.0-windows\CreateAccountWindowDir\CreateAccountWindow.baml
